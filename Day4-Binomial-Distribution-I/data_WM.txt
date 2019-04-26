@@ -1,0 +1,5 @@
+Input Format
+
+A single line containing the following values:
+
+1.09 1

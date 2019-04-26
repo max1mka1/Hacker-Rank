@@ -1,0 +1,8 @@
+Sample Input
+
+5
+10 40 30 50 20
+1 2 3 4 5
+Sample Output
+
+32.0
